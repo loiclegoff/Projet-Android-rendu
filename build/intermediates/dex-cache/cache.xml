@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/leo/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-geojson/2.2.3/6ef9ec5907ccc6279aedf30a2568d9f4fa23e893/mapbox-java-geojson-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef9ec5907ccc6279aedf30a2568d9f4fa23e893">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/mapbox-java-geojson-2.2.3_0f4a083a01b57e01aca480f27944c24e39065eb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-core/2.2.3/f3162ff35ad19466d895b86b504d3651fbd51db7/mapbox-java-core-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f3162ff35ad19466d895b86b504d3651fbd51db7">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/mapbox-java-core-2.2.3_0d953ce95facb0fdaa8aa86c27ff22b2e373dd2e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/Bureau/AndroidProject/Project/Projet-Android-rendu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b458d143b3e6f00d5cc2dbd872404b3c52e80f5">
+        <dex dex="/home/leo/Bureau/AndroidProject/Project/Projet-Android-rendu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_84a0896ccbcd0c7b8d4d33c182b38f12d5693457/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/662c4096f1657e93d087b048c7e3b416f111514b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_dc0a1a7458e806f388c4bc8c8987afa9db1d9d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/ee373cf5dd3d85dd76d58496344440e3e4c25b3c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_d5da38fbb970e97ef0506941d6294807b8906468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/99b9a99725e09064c4090f6eeaaa9093f142da4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_717d06d5d3670ebc32e495920a78e349406705ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/73dbfa5a696df6ce5de1fc8e241f382301667bd3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_0f71b9929789f3324f67e8c8c9264497cfd0a365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/6cfeeae2245a9184f11703a30c070cc8910d2836/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_341f0ec4725a95c6215937fa360a1f276617e1e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/d974d279f4ba92c33ef7103857d58884f344dfcd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c74c28a44292b6480afe69ddb2c0974f45393a3a">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_efb497415afd883f7fb03bb83054b63bf147745c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/Bureau/AndroidProject/Project/Projet-Android-rendu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/leo/Bureau/AndroidProject/Project/Projet-Android-rendu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_59bfe465131e818c8b5dd89d5129998b2f408925/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_c4cf140cda90289e45ccdf2438bc132683396da3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.0/1b6c10b5120995a7542c1a31b7828fb8593c8ba/okhttp-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/okhttp-3.9.0_b922c275f68b622f13cb8fff060b345fb22ac040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/gson-2.8.0_dae33f584c103f13c585cfd7f3c1f5be820b5cc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/e2d6baea71457bed6e7c9d4b113aeb5179937400/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5f49d4a90d11fd3c7f047cd8083ca50c69338e0">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_93d947f6fa3dd3465b9dff9c27cade4c98467c13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/3a468517f31076310e6347874daf1329ebfd6f77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_7b7366a0b291db19b92b0c6eccbb6cac7e5dbfe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/okio-1.13.0_08bc2961c405b450af614d446541b8ccac80b99c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/bb85f48b96b2bd380c52396a99cc9668ed214205/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c9d0d2b21baebf49c526d857991e2d48f30fcb00">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_fcec7850c16027fcc8c1b96c82c293c14f6f974b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/e9ce66bd954f28927d6b2329fc1a3699d58fce0f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_8ac62e92dc21aa5820696977264b5948be5c0c1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/de7d36e176f8a8d95c5ec96ee6d9045ffdf13a40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_3e00dad2bfbccd95b16abcb5e55c177775a0d664.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_5d0a196854e166b76c272ccc2d7f1ce64c45f6cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/797485216f070b7bc9ce1112b7f995e281f15e67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_aa3a208e8dcc31e7022a3f5988bfdcd27e9d8366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/5d767d2b4a2b9f2b32b54fe0669631d580df734b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_306310106e10594d56f7aa8969e8ebe7dc4e8d12.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="03a3d37b6f6ab10e18bcad75d156716b62faf010">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3fe4fc0048313fce3578d6cb4d83a5eed7fdcd62/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/7565ed7169a3bce3c9d299fb4c462498d7a2ebbe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_33e55c2f4f5aed9f2a75063b20d968027e8861ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/common-1.0.0_dc39fd0d00bd9d3358087a479edbaae9b1491190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_217a265abf35baa9c5e3114644681764ba52f2be.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c8fb0523273cb36da9d09523bccbe418979e7168/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/98f18a9ba18e3dba8df210cf2de740c6109c285c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_80069c1dfc84e867a211a9f205b2479cc52be0d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/f6b00615514abf55c341b18e0e5b54812a6304a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="048dfc258aecfa068af42288b3ca8dee74a8e690">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_8208bc513c87ad18ef96024bece91377b271bed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/80776dcb79a06a03c6e08fa1c2e715f580277786/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_406d714d71228defdefd7e35448bd14f61546ab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/0dc4ddfb835c4cc48ef7b60bf0dc8392b3577d38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_400760395f366d03386fc71d4ca2c54d8331a901.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/common-1.0.0_9a15eff3d14e7f740b29ea008818d121131c0be7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_76895d0ec6756bf6b41b24973b4dbed5029825e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leo/.android/build-cache/4b21b34fc4a2054bba8f3d6c69a63f319933cfd0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_e80367c740122bf1a3b5529a269c276e334fca5b.jar" />
+    </item>
+
+</items>

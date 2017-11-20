@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Texture for Camera preview -->
+    <TextureView
+        android:id="@+id/texture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"/>
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/latitude"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="15dp"
+        />
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/longitude"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/latitude"
+        android:layout_alignLeft="@+id/latitude"
+        android:layout_marginTop="5dp"/>
+
+    <!-- Floating button to take photos -->
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/btn_takepicture"
+        android:theme="@style/BaseFloatingButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:elevation="5dp"
+        android:src="@android:drawable/ic_menu_camera" />
+
+    <!-- Floating button to swap camera -->
+    <ImageView
+        android:id="@+id/btn_rotateCamera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="30dp"
+        android:layout_marginTop="40dp"
+        android:elevation="5dp"
+        android:src="@android:drawable/stat_notify_sync"/>
+
+    <!-- Preview Card -->
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardPreview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_centerVertical="true"
+        app:cardBackgroundColor="@color/white"
+        android:visibility="invisible"
+        app:cardCornerRadius="2dp"
+        app:cardElevation="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/contentTitle"
+                style="@style/FullWidthEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:hint="Name your creation!"
+                android:inputType="text"
+                />
+
+            <android.support.v7.widget.AppCompatImageView
+                android:id="@+id/imagePreview"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:scaleType="centerCrop"
+                android:contentDescription="preview"/>
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginStart="5dp"
+                android:layout_marginEnd="30dp"
+                app:counterEnabled="true"
+                app:counterMaxLength="150">
+
+                <EditText
+                    android:id="@+id/contentDescription"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    style="@style/FullWidthEditText"
+                    android:inputType="textMultiLine"
+                    android:textSize="15sp"
+                    android:hint="Describe your awesome content ;)"/>
+
+            </android.support.design.widget.TextInputLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/cancelSnap"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    android:text="Cancel"/>
+                <Button
+                    android:id="@+id/saveSnap"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    android:text="Save it"/>
+            </LinearLayout>
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+    </RelativeLayout>
