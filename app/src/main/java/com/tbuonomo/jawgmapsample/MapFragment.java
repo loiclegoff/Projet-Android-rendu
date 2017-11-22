@@ -47,6 +47,8 @@ public class MapFragment extends Fragment {
 
         View rootView = inflater.inflate(R.layout.map_layout, container, false);
 
+        token = getActivity().getIntent().getStringExtra("USER_TOKEN");
+
         Mapbox.getInstance(this.getContext(), BuildConfig.MAP_BOX_TOKEN);
         mapView = rootView.findViewById(R.id.mapView);
         mapView.setStyleUrl("https://tile.jawg.io/jawg-streets.json?access-token=" + BuildConfig.JAWG_API_KEY);

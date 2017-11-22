@@ -20,15 +20,6 @@
         <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/mapbox-java-core-2.2.3_0d953ce95facb0fdaa8aa86c27ff22b2e373dd2e.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/leo/Bureau/AndroidProject/Project/Projet-Android-rendu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="1b458d143b3e6f00d5cc2dbd872404b3c52e80f5">
-        <dex dex="/home/leo/Bureau/AndroidProject/Project/Projet-Android-rendu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_84a0896ccbcd0c7b8d4d33c182b38f12d5693457/classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="/home/leo/.android/build-cache/662c4096f1657e93d087b048c7e3b416f111514b/output/jars/classes.jar"
         jumboMode="false"
@@ -81,15 +72,6 @@
         revision="26.0.1"
         sha1="c74c28a44292b6480afe69ddb2c0974f45393a3a">
         <dex dex="/home/leo/Bureau/AndroidProject/jawg-snap/app/build/intermediates/pre-dexed/debug/classes_efb497415afd883f7fb03bb83054b63bf147745c.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/leo/Bureau/AndroidProject/Project/Projet-Android-rendu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/leo/Bureau/AndroidProject/Project/Projet-Android-rendu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_59bfe465131e818c8b5dd89d5129998b2f408925/classes.dex" />
     </item>
     <item
         is-multidex="true"

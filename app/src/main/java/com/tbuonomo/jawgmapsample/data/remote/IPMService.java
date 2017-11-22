@@ -21,9 +21,8 @@ public interface IPMService {
     Call<IPMAnswersResponse> getAnswers(@Field("token") String token, @Field("lat") Double lat,  @Field("lon") Double lon, @Field("dist") Double dist);
     //Call<IPMAnswersResponse> getPictureByCoordinates(@Field("token") String token, @Field("lat") Double lat,  @Field("lon") Double lon, @Field("dist") Double dist);
 
-   /* @POST("/ipicmap.php")
+    @POST("/ipicmap.php")
     @FormUrlEncoded
-    Call<IPMLoginResponse> getToken(@Field("username") String username, @Field("pwd") String pwd);*/
-/*    @GET("/answers?order=desc&sort=activity&site=stackoverflow")
-    Call<IPMAnswersResponse> getAnswers(@Query("tagged") String tags);*/
+    Call<IPMLoginResponse> getToken(@Field("username") String username, @Field("pwd") String pwd);
+
 }
